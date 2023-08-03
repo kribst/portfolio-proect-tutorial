@@ -1,0 +1,13 @@
+.custom-button {
+    padding: 3;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 0.8rem;
+    flex-shrink: 0;
+    position: relative;
+}
